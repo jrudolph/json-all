@@ -9,7 +9,7 @@
 	url = https://github.com/non/jawn.git
 [submodule "argonaut"]
 	path = argonaut
-	url = https://github.com/argonaut-io/argonaut.git
+	url = https://github.com/jrudolph/argonaut.git
 [submodule "json4s"]
 	path = json4s
 	url = git@github.com:json4s/json4s.git
