@@ -1,0 +1,18 @@
+[submodule "spray-json"]
+	path = spray-json
+	url = git@github.com:spray/spray-json.git
+[submodule "json4s-ast"]
+	path = json4s-ast
+	url = https://github.com/json4s/json4s-ast
+[submodule "jawn"]
+	path = jawn
+	url = https://github.com/non/jawn.git
+[submodule "argonaut"]
+	path = argonaut
+	url = https://github.com/argonaut-io/argonaut.git
+[submodule "json4s"]
+	path = json4s
+	url = git@github.com:json4s/json4s.git
+[submodule "rojoma-json"]
+	path = rojoma-json
+	url = https://github.com/rjmac/rojoma-json.git
